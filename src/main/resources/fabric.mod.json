@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "infinitewater",
+	"version": "${version}",
+	"name": "InfiniteWater",
+	"description": "Makes Water Buckets release infinite Water!",
+	"authors": [
+		"NoSkinBadName"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/infinitewater",
+		"sources": "https://github.com/NoSkinBadName/infinitewater"
+	},
+	"license": "MIT",
+	"icon": "assets/infinitewater/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"io.github.noskinbadname.infinitewater.InfiniteWater"
+		]
+	},
+	"mixins": [
+		"infinitewater.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": ">=1.21 <=1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
