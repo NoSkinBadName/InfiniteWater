@@ -16,5 +16,5 @@ Check out a quick demo:
 
 
 
-\[!\[YouTube-Short about this Mod](https://img.youtube.com/vi/bq8fUMSQIYI/0.jpg)](https://youtu.be/bq8fUMSQIYI)
+[![YouTube-Short about this Mod](https://img.youtube.com/vi/bq8fUMSQIYI/0.jpg)](https://youtu.be/bq8fUMSQIYI)
 
